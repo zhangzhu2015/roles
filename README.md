@@ -3,6 +3,10 @@
 [![StyleCI](https://styleci.io/repos/74971525/shield?branch=master)](https://styleci.io/repos/74971525)
 [![Coverage Status](https://coveralls.io/repos/github/ultraware/roles/badge.svg?branch=master)](https://coveralls.io/github/ultraware/roles?branch=5.1)
 
+#Abandoned 
+The Roles and permissions for laraval 5 package is abandoned and will no longer be maintained by Ultraware. 
+Feel free to fork the project and submit it to packagist. We can share the url to your package on this page if you send us a message.
+
 # Roles And Permissions For Laravel 5
 
 Powerful package for handling roles and permissions in Laravel 5.
